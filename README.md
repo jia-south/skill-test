@@ -62,7 +62,7 @@ hello-world-1.0.0.zip
 └── hello-world/           ← 不能有父目录包裹
     └── SKILL.md
 ```
-
+ 
 ---
 
 ## SKILL.md 格式
